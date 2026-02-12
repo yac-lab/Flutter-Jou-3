@@ -1,2 +1,2 @@
-les infos utilisateurs sont stockes dans une liste "static" donc la lsite est vide a chaque demmarage de l'app et a la sortie de la page d'acceuil. Donc pr tester, entrer d'abord un ou plusieurs comptes.
+les infos utilisateurs sont stockes dans une liste "static" donc la lsite est vide a chaque demmarage de l'app et a la sortie de la page d'acceuil. Donc pr tester, creer d'abord un ou plusieurs comptes.
 merci.
